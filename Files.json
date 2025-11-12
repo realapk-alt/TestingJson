@@ -5,9 +5,9 @@
   "shortener_api": "https://arlinks.in/api?api=859323490c13fcc831dfe3db20a26717e80be148&url=",
     "firebase_url": "https://real-apk-pin-default-rtdb.firebaseio.com/",
   "telegram_url": "https://t.me/aboutofhcs",
-  "app_title": "REAL APK",
-  "app_description": "Complete a shortlink once ✅ and the app stays ACTIVE",
-  "verification_duration_hours": 1,
+  "app_title": "Verification Required !!",
+  "app_description": "Complete verification once ✅ and the app stays ACTIVE",
+  "verification_duration_hours": 24,
   "colors": {
     "border": "#2D3047",
     "status_neon": "#00FFC6",
